@@ -1,0 +1,11 @@
+{
+    "db":{
+        "host":"localhost",
+        "username":"hihi",
+        "password":"hihi",
+        "database":"ptgmp"
+    },
+    "clientAppKey": "fkt6ds",
+    "deviceKey":"fkt7ap",
+    "logdir":"/home/hihi/workspace/www/html/ptgmp/logs"
+}
